@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "lv_amp")(type "KiCad")(uri "./lv_amp.pretty")(options "")(descr ""))
+)
