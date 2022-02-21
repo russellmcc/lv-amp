@@ -1,0 +1,7 @@
+ * Zener network for rail splitter
+ * layout output cap nearer diode
+ * more filter caps on input
+ * 42 ohm gate resistor
+ * potentiometers - bass and gain should be audio taper
+ * Mid pot wired backwards
+ * swaps from notebook page 13
