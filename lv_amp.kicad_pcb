@@ -854,7 +854,7 @@
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp dde3dba8-1b81-466c-93a3-c284ff4da1ef)
     )
-    (fp_text value "Zener 5V" (at 0 2.5) (layer "F.Fab")
+    (fp_text value "Zener 5.1V" (at 0 2.5) (layer "F.Fab")
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 58dc14f9-c158-4824-a84e-24a6a482a7a4)
     )
