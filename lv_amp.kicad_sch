@@ -5046,7 +5046,7 @@
     (in_bom yes) (on_board yes)
     (uuid d46bdf2a-1124-4fea-af8f-34f8f4677f71)
     (property "Reference" "D2" (id 0) (at 40.64 140.97 0))
-    (property "Value" "Zener 3.3V" (id 1) (at 43.18 146.05 0))
+    (property "Value" "Zener 5V" (id 1) (at 43.18 146.05 0))
     (property "Footprint" "Diode_SMD:D_SOT-23_ANK" (id 2) (at 41.91 143.51 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -5715,7 +5715,7 @@
       (reference "D1") (unit 1) (value "D") (footprint "Package_TO_SOT_SMD:TO-263-2_TabPin1")
     )
     (path "/d46bdf2a-1124-4fea-af8f-34f8f4677f71"
-      (reference "D2") (unit 1) (value "Zener 3.3V") (footprint "Diode_SMD:D_SOT-23_ANK")
+      (reference "D2") (unit 1) (value "Zener 5V") (footprint "Diode_SMD:D_SOT-23_ANK")
     )
     (path "/2f758966-b33c-4bfa-a976-e7af6b3674c7"
       (reference "H1") (unit 1) (value "MountingHole_Pad") (footprint "MountingHole:MountingHole_3.2mm_M3")
