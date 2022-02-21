@@ -4112,7 +4112,7 @@
     (property "Reference" "R18" (id 0) (at 141.351 91.8015 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "1Meg" (id 1) (at 141.351 94.5766 0)
+    (property "Value" "100k" (id 1) (at 141.351 94.5766 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Footprint" "Resistor_SMD:R_0603_1608Metric" (id 2) (at 138.684 92.456 90)
@@ -5712,7 +5712,7 @@
       (reference "R17") (unit 1) (value "100k") (footprint "Resistor_SMD:R_2512_6332Metric")
     )
     (path "/7627ad07-126b-4f32-b824-4d9523bebf30"
-      (reference "R18") (unit 1) (value "1Meg") (footprint "Resistor_SMD:R_0603_1608Metric")
+      (reference "R18") (unit 1) (value "100k") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/ad487d33-6ba3-4b24-956a-c205b839a8be"
       (reference "R19") (unit 1) (value "2.7k") (footprint "Resistor_SMD:R_1206_3216Metric")
