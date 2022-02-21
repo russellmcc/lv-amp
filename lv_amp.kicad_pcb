@@ -4084,7 +4084,7 @@
   (gr_line (start 38.1 139.7) (end 165.1 139.7) (layer "Edge.Cuts") (width 0.1) (tstamp bb5b8563-8aeb-4b58-8ad3-b9c00376a282))
   (gr_line (start 38.1 63.5) (end 38.1 139.7) (layer "Edge.Cuts") (width 0.1) (tstamp c31beb0c-30c9-4805-a878-7d2c3a680ad0))
   (gr_line (start 165.1 139.7) (end 165.1 63.5) (layer "Edge.Cuts") (width 0.1) (tstamp dd64d212-3dc6-454a-bcb1-bcdec7d0963c))
-  (gr_text "lv-amp alpha0" (at 140 80) (layer "B.SilkS") (tstamp bfb92b30-0f83-4bc6-8125-2c76142a7aba)
+  (gr_text "lv-amp alpha1" (at 140 80) (layer "B.SilkS") (tstamp bfb92b30-0f83-4bc6-8125-2c76142a7aba)
     (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
   )
   (gr_text "for testing" (at 150.75 68) (layer "F.SilkS") (tstamp 834b4a2b-a726-42ad-ac4b-4dff6e31cdcc)
