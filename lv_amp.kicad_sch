@@ -3808,7 +3808,7 @@
     (property "Reference" "R1" (id 0) (at 255.651 80.3715 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "1k" (id 1) (at 255.651 83.1466 0)
+    (property "Value" "4.3k" (id 1) (at 255.651 83.1466 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Resistor_SMD:R_0603_1608Metric" (id 2) (at 255.016 81.534 90)
@@ -5661,7 +5661,7 @@
       (reference "Q1") (unit 1) (value "Q_NMOS_DGS") (footprint "Package_TO_SOT_SMD:TO-263-2")
     )
     (path "/5afa3632-aa94-4ade-91b3-46d777bee7c4"
-      (reference "R1") (unit 1) (value "1k") (footprint "Resistor_SMD:R_0603_1608Metric")
+      (reference "R1") (unit 1) (value "4.3k") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/20f8c6df-c852-4ad1-8291-502daa86579b"
       (reference "R2") (unit 1) (value "100k") (footprint "Resistor_SMD:R_2512_6332Metric")
