@@ -4093,7 +4093,7 @@
     (property "Reference" "R12" (id 0) (at 223.901 95.6115 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "56k" (id 1) (at 223.901 98.3866 0)
+    (property "Value" "27k" (id 1) (at 223.901 98.3866 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Footprint" "Resistor_SMD:R_2512_6332Metric" (id 2) (at 221.234 96.266 90)
@@ -5694,7 +5694,7 @@
       (reference "R11") (unit 1) (value "0.100") (footprint "Resistor_SMD:R_2512_6332Metric")
     )
     (path "/75fb8a9f-33b8-470f-9782-9c7d5464513e"
-      (reference "R12") (unit 1) (value "56k") (footprint "Resistor_SMD:R_2512_6332Metric")
+      (reference "R12") (unit 1) (value "27k") (footprint "Resistor_SMD:R_2512_6332Metric")
     )
     (path "/f45e46e2-1eb0-4825-b2ff-ea4e427352f1"
       (reference "R13") (unit 1) (value "1Meg") (footprint "Resistor_SMD:R_0603_1608Metric")
