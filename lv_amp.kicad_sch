@@ -4808,7 +4808,7 @@
     (pin "2" (uuid 24207918-6797-45a7-8d25-6e35a328e34f))
   )
 
-  (symbol (lib_id "Device:R_Potentiometer_US") (at 43.18 181.61 0) (mirror y) (unit 1)
+  (symbol (lib_id "Device:R_Potentiometer_US") (at 43.18 181.61 180) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid bd63cb9b-a387-4c82-b5aa-91ecc6fedba2)
     (property "Reference" "RV4" (id 0) (at 44.831 180.7015 0)
